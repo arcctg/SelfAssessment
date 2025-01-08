@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
+  - Constructor u
   - Operator `new`
   - Static method
   - Method
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
   - Hidden class
   - Object form
-  - Instance
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,29 +58,29 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) h
+  - Open–closed principle (OCP) h
+  - Liskov substitution principle (LSP) h
+  - Interface segregation principle (ISP) h
+  - Dependency inversion principle (DIP) h
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton h
+  - Factory Method u
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Adapter k
+  - Observer u
+  - Strategy u
+  - Facade h
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator h
   - State
   - Bridge
   - Builder
   - Prototype
   - Composite
-  - Decorator
+  - Decorator h
   - Flyweight
   - Mediator
   - Memento
