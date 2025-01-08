@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming u
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
+  - Constructor: 🖐️ used
   - Operator `new`
   - Static method
   - Method
   - Async method
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance u
-  - Parent class u
-  - Polymorphism u
-  - Abstract class u
-  - Interface u
-  - Encapsulation u
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
-  - Instance u
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,29 +58,29 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) h
-  - Open–closed principle (OCP) h
-  - Liskov substitution principle (LSP) h
-  - Interface segregation principle (ISP) h
-  - Dependency inversion principle (DIP) h
+  - Single-responsibility principle (SRP): 👂 heard
+  - Open–closed principle (OCP): 👂 heard
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
-  - Singleton h
-  - Factory Method u
+  - Singleton: 👂 heard
+  - Factory Method: 🖐️ used
   - Abstract Factory
-  - Adapter k
-  - Observer u
-  - Strategy u
-  - Facade h
+  - Adapter: 🎓 known
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 👂 heard
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator h
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
   - Prototype
   - Composite
-  - Decorator h
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
